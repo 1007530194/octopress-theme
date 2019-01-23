@@ -1,11 +1,16 @@
 Octopress Theme for Pelican
 ===========================
 
+# compile
+```bash
+compass compile
+```
+
+
 This is a theme for `Pelican`_ that looks like `Octopress`_ default theme. I wrote this
 theme for `my personal blog`_.
 
-Why use this theme?
--------------------
+# Why use this theme?
 
 I really like Octopress default theme, I think is enough pretty and very readable. On the other
 hand I don't like any of the themes currently available for Pelican. As I'm not able to write a
